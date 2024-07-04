@@ -94,6 +94,10 @@ ul li a:hover{
     border-top-right-radius: 5px;
     border-bottom-right-radius:5px;
 }
+.btn:hover{
+    color: #000000;
+    background-color: white;
+}
 
 .btn:focus{
     outline: none;
@@ -163,12 +167,10 @@ ul li a:hover{
     width: 220px;
     font-family:sans-serif;
     text-align: center;
-    color: rgb(5, 117, 48);
+    color: white;
     font-size: 22px;
-    background-color: aliceblue;
-    border-radius: 10px;
     margin: 2px;
-    padding: 8px;
+    padding: 3px;
 }
 
 .form input{
