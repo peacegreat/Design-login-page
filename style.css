@@ -26,10 +26,10 @@
 .logo{
     color: rgb(111, 248, 202);
     font-size: 35px;
-    font-family:  Tahoma;
+    font-family:'Gill Sans'  ;
     padding-left: 20px;
     float: left;
-    padding-top: 10px;
+    padding-top: 13px;
 }
 .menu{
     width: 400px;
@@ -106,7 +106,8 @@ ul li a:hover{
     width: 1200px;
     height:auto ;
     margin: auto;
-    color: #fff;   
+    color: #fff; 
+    padding-top: 50px; 
 }
 
 .content .par{
@@ -162,7 +163,7 @@ ul li a:hover{
     width: 220px;
     font-family:sans-serif;
     text-align: center;
-    color: rgb(141, 240, 207);
+    color: rgb(5, 117, 48);
     font-size: 22px;
     background-color: aliceblue;
     border-radius: 10px;
@@ -249,6 +250,6 @@ ul li a:hover{
     padding-top: 5px;
     transition: 0.3s ease;
 }
-.icon ion-icon:hover{
+.icons ion-icon:hover{
     color: aqua;
 }
